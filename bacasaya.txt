@@ -1,0 +1,5 @@
+login admin
+
+localhost/vigor/vigoradmin
+user: admin
+pass: admin
